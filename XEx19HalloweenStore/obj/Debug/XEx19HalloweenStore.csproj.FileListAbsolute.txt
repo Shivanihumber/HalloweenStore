@@ -1,0 +1,64 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.pdb
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\csc.exe
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\vbc.exe
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.dll.config
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.pdb
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csprojAssemblyReference.cache
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csproj.CoreCompileInputs.cache
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csproj.CopyComplete
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.pdb
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\csc.exe
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\vbc.exe
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\VBCSCompiler.exe
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.dll.config
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\XEx19HalloweenStore.pdb
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.dll
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.pdb
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csprojAssemblyReference.cache
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csproj.CoreCompileInputs.cache
+C:\Shivani\semester4\Asp.net\XEx19HalloweenStore\XEx19HalloweenStore\obj\Debug\XEx19HalloweenStore.csproj.CopyComplete
